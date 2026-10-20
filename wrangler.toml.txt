@@ -1,0 +1,7 @@
+name = "artiiah"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "."
+
+[[kv_namespaces]]
+binding = "ARTIIAH_KV"
+id = "artiiah-id-01"
